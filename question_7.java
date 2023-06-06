@@ -22,7 +22,7 @@ public class question_7 {
                 //  if(row%2==0){System.out.print(" ");}
                     // else{
                 
-                  System.out.print(column +" ");
+                  System.out.print(column + " ");
                 
                 }
 
